@@ -63,7 +63,9 @@ The most popular companies that provide this service are:
 - Microsoft Azure
 - Heroku (what we'll use in class)
 
-With a service like AWS, instead of maintaining your own server in the back room, you can log into the AWS website and set up a server by clicking a few buttons.
+With a service like AWS, instead of maintaining your own server in the back room, you can log into the AWS website and set up a server by clicking a few buttons. You can choose how powerful you want the server to be, and you can even choose where it is located: Virginia, Ohio, Japan, etc.
+
+What you'll get is not a physical computer assigned just to you, but a "virtual server" -- the ability to store data and use processing power on some portion of a much larger machine. Sometimes the storage and processing might be split over a bunch of different computers. We actually don't know -- and don't even need to know -- exactly how the virtual server is maintained. That's Amazon's problem! As far as we're concerned, as the people clicking on the AWS site, we can mostly live our lives as though there is a separate server just for us.
 
 These services are better than maintaining your own server for many reasons.
 
