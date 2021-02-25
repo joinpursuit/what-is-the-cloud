@@ -56,7 +56,7 @@ In addition, the company could be paying for a very expensive computer that gets
 
 For those reasons, you are very likely to work at a company where the servers are no longer physically in a back room somewhere. Instead the servers are... You guessed it, in the cloud!
 
-The most popular companies that provide this service are:
+The most popular companies that manage servers in the cloud are:
 
 - Amazon Web Services (AWS)
 - Google Cloud Platform (GCP)
