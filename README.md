@@ -34,7 +34,7 @@ You are definitely already using cloud applications. Here are some examples:
 - When you give a voice command to Siri or Alexa, your audio is sent over the Internet to a cloud-based system that processes it into text and "understands" your request
 - You push your code to GitHub so that other students or instructors can see it without storing it on their computers
 
-In addition to these well-known products, every website you visit has a server that receives your request, returns the HTML page to your browser, and stores and computes information for you. This cannot happen on your computer. It's all in the cloud!
+In addition to these well-known products, every website you visit has a server (a powerful computer) that receives your request, returns the HTML page to your browser, and stores and computes information for you. This cannot happen on your computer. It's all in the cloud!
 
 ## SaaS and the Cloud
 
@@ -48,7 +48,7 @@ There are too many SaaS products in the world to count. Some of them are for con
 
 As a software engineer, you will also work with the cloud every day when you deploy web applications (update your site on the Internet).
 
-In the old days, companies would have a few servers (powerful computers) in a back room somewhere. These servers were connected to the Internet and would host the website and store user data.
+In the old days, companies would have a few servers in a back room somewhere. These servers were connected to the Internet and would host the website and store user data.
 
 Having a server in the back room turned out to be a pain. What if the power goes out? What if the computer gets old and needs to be upgraded? What if the server overheats and starts a fire? (This really happens!)
 
