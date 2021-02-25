@@ -48,7 +48,7 @@ There are too many SaaS products in the world to count. Some of them are for con
 
 As a software engineer, you will also work with the cloud every day when you deploy web applications (update your site on the Internet).
 
-In the old days, companies would have a few servers in a back room somewhere. These servers were connected to the Internet and would host the website and store user data.
+In the old days, companies would have a few servers (powerful computers) in a back room somewhere. These servers were connected to the Internet and would host the website and store user data.
 
 Having a server in the back room turned out to be a pain. What if the power goes out? What if the computer gets old and needs to be upgraded? What if the server overheats and starts a fire? (This really happens!)
 
