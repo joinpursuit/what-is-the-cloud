@@ -40,7 +40,7 @@ In addition to these well-known products, every website you visit has a server t
 
 You may have heard of the cloud-related acronym SaaS, which stands for "software as a service." Google Docs is an example of a SaaS product. In the old days, you would buy Microsoft Word and install it on your computer with a CD-ROM (or pay to download it to your computer). So then you had MS Word on your computer and it ran on your computer, with all of your computer's limitations in terms of storage, memory, and speed.
 
-On the other hand, Google Docs is just a website. All of the software that creates and edits your document, and all the storage of your documents, happens in the cloud, on Google's computers.
+On the other hand, Google Docs is just a website. Key parts of the software that creates and edits your document, and all the storage of your documents, happens in the cloud, on Google's computers.
 
 There are too many SaaS products in the world to count. Some of them are for consumers and many more are for very large enterprise-scale businesses. Companies that sell SaaS products to enterprises are often very profitable because SaaS software is never installed on the customer's machine. Instead, the customer has to pay a recurring fee to subscribe to the software. The fees for a SaaS business product can be 10s or 100s of thousands of dollars a month, if not even more.
 
