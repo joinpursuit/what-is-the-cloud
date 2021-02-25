@@ -69,7 +69,7 @@ What you'll get is not a physical computer assigned just to you, but a "virtual 
 
 These services are better than maintaining your own server for many reasons.
 
-First, maintaining the server or database is their problem, not yours. Most companies like AWS offer incredible guaranteed reliability. For these companies, offering 99% reliability isn't even impressive. Even 99.9% isn't impressive. Instead, these companies brag about guarnteed uptime or storage durability in terms of how many 9s are in the number. For example AWS S3 is a storage service that guarantees to keep 99.999999999% of everything it stores ("eleven nines").
+First, maintaining the server or database is their problem, not yours. Most companies like AWS offer incredible guaranteed reliability. For these companies, offering 99% reliability isn't even impressive. Even 99.9% isn't impressive. Instead, these companies brag about guaranteed uptime or storage durability in terms of how many 9s are in the number. For example AWS S3 is a storage service that guarantees to keep 99.999999999% of everything it stores ("eleven nines").
 
 Second, these services cost less than buying your own server. AWS has thousands of servers that it can buy at volume and combine efficiently in different data centers around the world, so it's much cheaper.
 
