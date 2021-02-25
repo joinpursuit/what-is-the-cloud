@@ -4,7 +4,7 @@ We talk about the cloud all the time. Things are stored there, uploaded there, p
 
 The short answer is this:
 
-![sss](https://miro.medium.com/max/325/1*el4nHcOQdfHxzzcTC99jDw.png)
+!["There is no cloud; it's just someone else's computer" meme](https://miro.medium.com/max/325/1*el4nHcOQdfHxzzcTC99jDw.png)
 
 For the longer, more helpful answer, read on.
 
