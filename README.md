@@ -36,7 +36,7 @@ You are definitely already using cloud applications. Here are some examples:
 
 In addition to these well-known products, every website you visit has a server (a powerful computer) that receives your request, returns the HTML page to your browser, and stores and computes information for you. This cannot happen on your computer. It's all in the cloud!
 
-## SaaS and the Cloud
+## SaaS and the cloud
 
 You may have heard of the cloud-related acronym SaaS, which stands for "software as a service." Google Docs is an example of a SaaS product. In the old days, you would buy Microsoft Word and install it on your computer with a CD-ROM (or pay to download it to your computer). So then you had MS Word on your computer and it ran on your computer, with all of your computer's limitations in terms of storage, memory, and speed.
 
