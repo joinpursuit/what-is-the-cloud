@@ -34,7 +34,7 @@ You are definitely already using cloud applications. Here are some examples:
 - When you give a voice command to Siri or Alexa, your audio is sent over the Internet to a cloud-based system that processes it into text and "understands" your request
 - You push your code to GitHub so that other students or instructors can see it without storing it on their computers
 
-In addition to these well-known products, every website you visit has a server (a powerful computer) that receives your request, returns the HTML page to your browser, and stores and computes information for you. This cannot happen on your computer. It's all in the cloud!
+In addition to these well-known products, every website you visit has a server (a kind of computer) that receives your request, returns the HTML page to your browser, and stores and computes information for you. This cannot happen on your computer. It's all in the cloud!
 
 ## SaaS and the cloud
 
@@ -71,7 +71,7 @@ These services are better than maintaining your own server for many reasons.
 
 First, maintaining the server or database is their problem, not yours. Most companies like AWS offer incredible guaranteed reliability. For these companies, offering 99% reliability isn't even impressive. Even 99.9% isn't impressive. Instead, these companies brag about guaranteed uptime or storage durability in terms of how many 9s are in the number. For example AWS S3 is a storage service that guarantees to keep 99.999999999% of everything it stores ("eleven nines").
 
-Second, these services cost less than buying your own server. AWS has thousands of servers that it can buy at volume and combine efficiently in different data centers around the world, so it's much cheaper.
+Second, these services cost less than buying your own server. AWS has milliions of servers that it can buy at volume and combine efficiently in different data centers around the world, so it's much cheaper.
 
 These services also offer very useful features like data backups or auto-scaling (adding more servers automatically if you get a spike in traffic).
 
